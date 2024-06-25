@@ -6,7 +6,7 @@ Clone of Youtube using React JS
 Go thru this clone application using this
 </p> 
 
-<a hrf=" https://nxtwatch117.ccbp.tech/login" />
+ https://nxtwatch117.ccbp.tech/login
 
 Login Credentials
 
